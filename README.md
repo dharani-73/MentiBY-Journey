@@ -31,7 +31,6 @@ Learning Platform: MentiBY
 Instructor: Swaroop Talks
 
 ## 🖼 Screenshot of HTML Output
-![HTML Code](<img width="1235" height="627" alt="HTML Code" src="https://github.com/user-attachments/assets/bfde86a4-1f45-46ae-a3d1-309889e2e801" />
-)
+![HTML Code](https://github.com/dharani-73/MentiBY-Journey/blob/ba2e252741061247c958d24dbc1443f044a58fbd/HTML%20Code.png)
 ![HTML Output](<img width="957" height="455" alt="OUTPUT" src="https://github.com/user-attachments/assets/afc2344a-48b6-4229-96b2-cb4a670a7568" />
 )
