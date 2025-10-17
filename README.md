@@ -31,6 +31,7 @@ Learning Platform: MentiBY
 Instructor: Swaroop Talks
 
 ## 🖼 Screenshot of HTML Output
+![Input Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
+![Input Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
 
-[HTML Code](https://github.com/user-attachments/assets/70b905e6-7dd5-4e56-a07d-6d772856a929)
-[HTML Output](https://github.com/user-attachments/assets/8be6c422-3250-4e23-9bbd-070bdbdc5b3b)
+
