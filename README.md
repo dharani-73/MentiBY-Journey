@@ -1,4 +1,6 @@
-[](url)# 🌐 HTML Practice - Day 1
+![HTML Input](url)
+![HTML Output](url)
+# 🌐 HTML Practice - Day 1
 
 This project is part of my *Full Stack Web Development learning journey* through *MentiBY* under the mentorship of *Swaroop Talks*.
 
@@ -31,6 +33,5 @@ Learning Platform: MentiBY
 Instructor: Swaroop Talks
 
 ## 🖼 Screenshot of HTML Output
-![Input Screenshot](https://github.com/dharani-73/stock-prediction-app/blob/dbf93759bf5bdeb66bcab3c96e9764fdc679f473/Screenshot%202025-10-17%20232419.png)
-![HTML Output](https://github.com/dharani-73/MentiBY-Journey/blob/e2de8821bac4e835673b7108bbb4fac052062653/OUTPUT.png)
+
 
