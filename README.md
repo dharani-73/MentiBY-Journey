@@ -32,6 +32,4 @@ Learning Platform: MentiBY
 
 Instructor: Swaroop Talks
 
-## 🖼 Screenshot of HTML Output
-
 
