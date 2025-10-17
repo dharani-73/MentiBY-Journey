@@ -1,4 +1,4 @@
-![HTML Input](url)
+![HTML Input](https://github.com/dharani-73/MentiBY-Journey/blob/04f97656be951d46594eb738c59b5ae2c3d43aae/HTML%20Code.png)
 ![HTML Output](https://github.com/dharani-73/MentiBY-Journey/blob/452ba61481ac0d6fb53e98a3b76e36c758744c0d/OUTPUT.png)
 # 🌐 HTML Practice - Day 1
 
