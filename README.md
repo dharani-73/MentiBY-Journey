@@ -1,5 +1,5 @@
 ![HTML Input](url)
-![HTML Output](url)
+![HTML Output](https://github.com/dharani-73/MentiBY-Journey/blob/452ba61481ac0d6fb53e98a3b76e36c758744c0d/OUTPUT.png)
 # 🌐 HTML Practice - Day 1
 
 This project is part of my *Full Stack Web Development learning journey* through *MentiBY* under the mentorship of *Swaroop Talks*.
