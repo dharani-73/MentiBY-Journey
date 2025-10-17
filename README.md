@@ -1,4 +1,4 @@
-# 🌐 HTML Practice - Day 1
+[](url)# 🌐 HTML Practice - Day 1
 
 This project is part of my *Full Stack Web Development learning journey* through *MentiBY* under the mentorship of *Swaroop Talks*.
 
